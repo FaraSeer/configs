@@ -140,3 +140,5 @@ alias ll='ls -alFh'
 alias lg='ll --git'
 
 unsetopt nomatch
+# Turn off all beeps
+unsetopt BEEP
